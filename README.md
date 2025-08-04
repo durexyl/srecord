@@ -2,7 +2,9 @@
 
 This extension provides support for the [Motorola S-record file format](https://en.wikipedia.org/wiki/SREC_(file_format)).
 
-This extension is based upon keroc's Intel HEX format extension(https://github.com/keroc/hex-fmt)
+This extension is based upon keroc's [Intel HEX format extension](https://github.com/keroc/hex-fmt)
+
+Forked to be able to publish at [Open VSX Registry](https://open-vsx.org/)
 
 ## Features
 
